@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "http://webliq.ap-1.evennode.com/",
+    baseURL: "https://skylark-backend-4pfl.onrender.com/api",
     withCredentials: true
 })
 
